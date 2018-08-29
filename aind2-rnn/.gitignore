@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# dotenv
+.env
+
+# virtualenv
+.venv
+venv/
+ENV/
+
+model_weights/
+text_gen_output/
+
+*.zip
+*.txt
+*.json

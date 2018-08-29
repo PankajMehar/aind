@@ -1,0 +1,9 @@
+.DS_Store
+dogImages/
+lfw/
+.ipynb_checkpoints/
+__pycache__/
+saved_models/
+*.npz
+*.tar
+*.pth
